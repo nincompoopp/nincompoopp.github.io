@@ -30,6 +30,11 @@ backticks for a code block within a line of Markdown.
 #### What features does KETSU have?
 
 * Gives you easy access to all types of media, images, text, and video. 
+
+<img src="https://ketsu.app/imagages/showcase-1.png
+" width="115" height="210"> <img src="https://ketsu.app/imagages/showcase-1.png
+" width="115" height="210">
+
 * Custom video players & image and text readers. 
 * Ability to download for offline use. 
 * Dynamic UI (Light/Night mode)
