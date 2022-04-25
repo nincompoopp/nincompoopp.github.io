@@ -32,3 +32,7 @@ backticks for a code block within a line of Markdown.
 * Gives you easy access to all types of media, images, text, and video. 
 * Custom video players & image and text readers. 
 * Ability to download for offline use. 
+* Dynamic UI (Light/Night mode)
+* Ability to arganize favorites
+* Intuitive and simple design
+* Customizable color theme
