@@ -1,19 +1,19 @@
-# Ketsu Information
-###### project test site
+# **KETSU**
 
 
-## What is KETSU
+## Information
+### What is KETSU
 The first modular app to output video, images & text. Get the best expirience from the custom Video player, Image & Text readers.
 To install KETSU on Iphone you will need a computer. It takes less than 5 minutes!
 
+#### Downloading KETSU
+To download KETSU, you need to have all the following checked off. 
 
-When you use two or more headings, GitHub automatically generates a table of contents which you can access by clicking  within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section.
+- [X] On an Apple device
+- [X] Access to a computer/laptop
 
-Screenshot highlighting the table of contents icon
+### FAQ
 
-Styling text
-
-You can indicate emphasis with bold, italic, or strikethrough text in comment fields and .md files.
 
 Style	Syntax	Keyboard shortcut	Example	Output
 Bold	** ** or __ __	Command+B (Mac) or Ctrl+B (Windows/Linux)	**This is bold text**	This is bold text
