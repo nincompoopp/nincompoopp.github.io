@@ -42,6 +42,21 @@ backticks for a code block within a line of Markdown.
 " width="115" height="210">
 
 * Dynamic UI (Light/Night mode)
-* Ability to arganize favorites
+
+<img src="https://ketsu.app/imagages/showcase-3.png
+" width="115" height="210">
+
+* Ability to organize favorites
+
+<img src="https://ketsu.app/imagages/showcase-4.png
+" width="115" height="210">
+
 * Intuitive and simple design
+
+<img src="https://ketsu.app/imagages/showcase-5.png
+" width="115" height="210">
+
 * Customizable color theme
+
+<img src="https://ketsu.app/imagages/showcase-6.png
+" width="115" height="210">
