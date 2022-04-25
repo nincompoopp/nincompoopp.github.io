@@ -1,10 +1,20 @@
 # **KETSU**
 
 
-## Information
-### What is KETSU
-The first modular app to output video, images & text. Get the best expirience from the custom Video player, Image & Text readers.
-To install KETSU on Iphone you will need a computer. It takes less than 5 minutes!
+## [Home](https://nincompoopp.github.io/) | [Download](https://nincompoopp.github.io/download/) | [FAQ](https://nincompoopp.github.io/faq/)
+
+
+
+
+### Information
+
+#### What is KETSU
+
+
+* The first modular app to output video, images & text. Get the best expirience from the custom Video player, Image & Text readers.
+To [download](https://nincompoopp.github.io/download/) KETSU on Iphone you will need a computer. It takes less than 5 minutes!
+KETSU works with modules, modules are scripts that get the content and functionality to the app. Modules are made and shared by the users. KETSU does NOT provide or give modules. Modules are made and shared by the users.
+
 
 
 Style	Syntax	Keyboard shortcut	Example	Output
