@@ -16,7 +16,7 @@
 * The first modular app to output video, images & text. Get the best expirience from the custom Video player, Image & Text readers.
 To [download](https://nincompoopp.github.io/download/) KETSU on Iphone you will need a computer. It takes less than 5 minutes!
 
-<img src="https://ketsu.app/imagages/Macbook%20Pro%2001.png" width="380" height="240"> <img src="https://ketsu.app/imagages/landing.png" width="115" height="230">
+<img src="https://ketsu.app/imagages/Macbook%20Pro%2001.png" width="380" height="235"> <img src="https://ketsu.app/imagages/landing.png" width="115" height="230">
 
 
 
@@ -33,30 +33,30 @@ backticks for a code block within a line of Markdown.
 * Custom video players & image and text readers. 
 
 <img src="https://ketsu.app/imagages/showcase-1.png
-" width="115" height="210"> <img src="https://ketsu.app/imagages/showcase-2.png
-" width="115" height="210">
+" width="115" height="225"> <img src="https://ketsu.app/imagages/showcase-2.png
+" width="115" height="225">
 
 * Ability to download for offline use. 
 
 <img src="https://ketsu.app/imagages/downloads.png
-" width="115" height="210">
+" width="115" height="225">
 
 * Dynamic UI (Light/Night mode)
 
 <img src="https://ketsu.app/imagages/showcase-3.png
-" width="115" height="210">
+" width="115" height="225">
 
 * Ability to organize favorites
 
 <img src="https://ketsu.app/imagages/showcase-4.png
-" width="115" height="210">
+" width="115" height="225">
 
 * Intuitive and simple design
 
 <img src="https://ketsu.app/imagages/showcase-5.png
-" width="115" height="210">
+" width="115" height="225">
 
 * Customizable color theme
 
 <img src="https://ketsu.app/imagages/showcase-6.png
-" width="115" height="210">
+" width="115" height="225">
