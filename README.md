@@ -1,11 +1,11 @@
-# nincompoopp.github.io
+# Ketsu Information
+###### project test site
 
-To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading.
 
-# The largest heading
-## The second largest heading
-###### The smallest heading
-Rendered H1, H2, and H6 headings
+## What is KETSU
+The first modular app to output video, images & text. Get the best expirience from the custom Video player, Image & Text readers.
+To install KETSU on Iphone you will need a computer. It takes less than 5 minutes!
+
 
 When you use two or more headings, GitHub automatically generates a table of contents which you can access by clicking  within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section.
 
