@@ -7,7 +7,7 @@ The first modular app to output video, images & text. Get the best expirience fr
 To install KETSU on Iphone you will need a computer. It takes less than 5 minutes!
 
 #### Downloading KETSU
-To download KETSU, you need to have all the following checked off. 
+To download [**KETSU**](http://ketsu.app/download.html), you need to have all the following checked off. 
 
 - [X] On an Apple device
 - [X] Access to a computer/laptop
