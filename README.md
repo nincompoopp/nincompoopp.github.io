@@ -6,14 +6,6 @@
 The first modular app to output video, images & text. Get the best expirience from the custom Video player, Image & Text readers.
 To install KETSU on Iphone you will need a computer. It takes less than 5 minutes!
 
-#### Downloading KETSU
-To download [**KETSU**](http://ketsu.app/download.html), you need to have all the following checked off. 
-
-- [X] On an Apple device
-- [X] Access to a computer/laptop
-
-### FAQ
-
 
 Style	Syntax	Keyboard shortcut	Example	Output
 Bold	** ** or __ __	Command+B (Mac) or Ctrl+B (Windows/Linux)	**This is bold text**	This is bold text
