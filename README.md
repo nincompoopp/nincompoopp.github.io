@@ -3,7 +3,7 @@ p{
   display: flex;
   justify-content: center;
 }
-  img{https://ketsu.app/imagages/showcase-6.png
+  img{
       padding: 2px
 }  
 </style>
