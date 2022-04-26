@@ -32,9 +32,8 @@ What features does KETSU have?
 
 
 <p align="center">
-Gives you easy access to all types of media, images, text, and video. 
-</p><p align="center">
-Custom video players & image and text readers. 
+Gives you easy access to all types of media, images, text, and video with
+custom video players & image and text readers. 
 </p><p align="center">
 <img src="https://ketsu.app/imagages/showcase-1.png
 " width="155" height="336"> <img src="https://ketsu.app/imagages/showcase-2.png
@@ -43,7 +42,7 @@ Custom video players & image and text readers.
 Ability to download for offline use. 
 </p><p align="center">
 <img src="https://ketsu.app/imagages/downloads.png
-" width="310" height="672">
+" width="310" height="580">
 </p><p align="center">
 Dynamic UI (Light/Night mode)
 </p><p align="center">
