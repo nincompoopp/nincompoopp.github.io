@@ -1,3 +1,12 @@
+  <style>
+p{
+  display: flex;
+  justify-content: center;
+}
+  img{https://ketsu.app/imagages/showcase-6.png
+      padding: 2px
+}  
+</style>
 # **Home**
 
 
@@ -17,7 +26,7 @@
 To [download](https://nincompoopp.github.io/download/) KETSU on Iphone you will need a computer. It takes less than 5 minutes!
 
 <p align="center">
-<img src="https://ketsu.app/imagages/Macbook%20Pro%2001.png" width="380" height="235"> <img src="https://ketsu.app/imagages/landing.png" width="90" height="180">
+<img src="https://ketsu.app/imagages/Macbook%20Pro%2001.png" width="380" height="235"> <img src="https://ketsu.app/imagages/landing.png" width="90" height="235">
 </p>
 
 **What are modules?**
