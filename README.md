@@ -56,4 +56,4 @@ WIP
 
 
 
-><img src="https://ketsu.app/imagages/showcase-6.png" width="310vw" height="672vh"></p>
+<p align="center"><img src="https://ketsu.app/imagages/showcase-6.png" width="310vw" height="672vh"></p>
