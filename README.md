@@ -17,7 +17,7 @@ What is KETSU
 >The first modular app to output video, images & text. Get the best expirience from the custom Video player, Image & Text readers.
 To [download](https://nincompoopp.github.io/download/) KETSU on Iphone you will need a computer. It takes less than 5 minutes!
 <p align="center">
-<img src="https://ketsu.app/imagages/Macbook%20Pro%2001.png" max-width="380" width="49%" max-height="235" height="49%"> <img src="https://ketsu.app/imagages/landing.png" max-width="90" width="49%" max-height="200" height="49%">
+<img src="https://ketsu.app/imagages/Macbook%20Pro%2001.png" max-width="380" width="49%" max-height="235" height="49%"> <img src="https://ketsu.app/imagages/landing.png" max-width="90" width="10%" max-height="200" height="10%">
 </p>
 <br>
 What are modules?
@@ -49,11 +49,11 @@ custom video players & image and text readers. </p>
 <p align="center"> Customizable color theme </p>
 <p align="center"><img src="https://ketsu.app/imagages/showcase-6.png" max-width="310" width="49%" max-height="672" height="49%"></p>
 
-WIP
-
-<p align="left"> left </p><p align="center"> center </p><p align="right"> right </p>
 
 
 
 
-<p align="center"><img src="https://ketsu.app/imagages/showcase-6.png" width="310vw" height="672vh"></p>
+<p align="center"><img src="https://ketsu.app/imagages/showcase-6.png" max-width="310" width="49%" max-height="672" height="49%"></p>
+
+
+
