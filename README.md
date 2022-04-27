@@ -38,7 +38,7 @@ custom video players & image and text readers. </p>
 <p align="center"><img src="https://ketsu.app/imagages/downloads.png" width="310" height="580"></p>
 <br>
 <p align="center"> Dynamic UI (Light/Night mode) </p>
-<p align="center"><img src="https://ketsu.app/imagages/showcase-3.png" width="50%" height="50%"></p>
+<p align="center"><img src="https://ketsu.app/imagages/showcase-3.png" max-width="310" width="40%" max-height="672" height="40%"></p>
 <br>
 <p align="center"> Ability to organize favorites </p>
 <p align="center"><img src="https://ketsu.app/imagages/showcase-4.png" width="310" height="672"></p>
