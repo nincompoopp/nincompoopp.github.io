@@ -1,12 +1,3 @@
-  <style>
-p{
-  display: flex;
-  justify-content: center;
-}
-  img{
-      padding: 2px
-}  
-</style>
 # **Home**
 
 
