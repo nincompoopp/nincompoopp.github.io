@@ -49,27 +49,27 @@ custom video players & image and text readers.
 " width="310" height="672">
 </p><br><p align="center">
 Ability to download for offline use. 
-</p><br><p align="center">
+</p><p align="center">
 <img src="https://ketsu.app/imagages/downloads.png
 " width="310" height="580">
 </p><br><p align="center">
 Dynamic UI (Light/Night mode)
-</p><br><p align="center">
+</p><p align="center">
 <img src="https://ketsu.app/imagages/showcase-3.png
 " width="310" height="672">
 </p><br><p align="center">
 Ability to organize favorites
-</p><br><p align="center">
+</p><p align="center">
 <img src="https://ketsu.app/imagages/showcase-4.png
 " width="310" height="672">
 </p><br><p align="center">
   Intuitive and simple design
-</p><br><p align="center">
+</p><p align="center">
 <img src="https://ketsu.app/imagages/showcase-5.png
 " width="310" height="672">
 </p><br><p align="center">
+  Customizable color theme
+ </p><p align="center">
 <img src="https://ketsu.app/imagages/showcase-6.png
 " width="310" height="672">
-  </p><br><p align="center">
-Customizable color theme
-</p>
+  </p>
