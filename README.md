@@ -9,6 +9,7 @@
 
 Where can I download KETSU? 
 >KETSU is available on all Apple devices.
+
 <br>
 
 What is KETSU
@@ -55,4 +56,4 @@ WIP
 
 
 
-><img src="https://ketsu.app/imagages/showcase-6.png" width="50vw" height="50vh"></p>
+><img src="https://ketsu.app/imagages/showcase-6.png" width="310vw" height="672vh"></p>
