@@ -68,8 +68,8 @@ Ability to organize favorites
 <img src="https://ketsu.app/imagages/showcase-5.png
 " width="310" height="672">
 </p><p align="center">
-Customizable color theme
-</p><p align="center">
 <img src="https://ketsu.app/imagages/showcase-6.png
 " width="310" height="672">
-  </p>
+  </p><p align="center">
+Customizable color theme
+</p>
