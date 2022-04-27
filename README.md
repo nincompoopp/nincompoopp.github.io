@@ -51,3 +51,8 @@ custom video players & image and text readers. </p>
 WIP
 
 <p align="left"> left </p><p align="center"> center </p><p align="right"> right </p>
+
+
+
+
+><img src="https://ketsu.app/imagages/showcase-6.png" width="50vw" height="50vh"></p>
