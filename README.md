@@ -45,8 +45,8 @@ Gives you easy access to all types of media, images, text, and video with
 custom video players & image and text readers. 
 </p><p align="center">
 <img src="https://ketsu.app/imagages/showcase-1.png
-" width="206" height="448"> <img src="https://ketsu.app/imagages/showcase-2.png
-" width="206" height="448">
+" width="310" height="672"> <img src="https://ketsu.app/imagages/showcase-2.png
+" width="310" height="672">
 </p><p align="center">
 Ability to download for offline use. 
 </p><p align="center">
