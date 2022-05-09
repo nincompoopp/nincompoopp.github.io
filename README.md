@@ -5,12 +5,13 @@
       <h1>
         KETSU
       </h1>
-      <a href="https://nincompoopp.github.io">Information</a> | 
-      <a href="https://nincompoopp.github.io/download">Download</a> | 
-      <a href="https://nincompoopp.github.io/faq">FAQ</a>
+        <h3>
+          <a href="https://nincompoopp.github.io">Information</a> | 
+          <a href="https://nincompoopp.github.io/download">Download</a> | 
+          <a href="https://nincompoopp.github.io/faq">FAQ</a>
+        </h3>
     </section>
       <hr>
-      <br>
       <h2>Information</h2>
     <section>
         <article>
