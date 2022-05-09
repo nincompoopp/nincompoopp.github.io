@@ -46,7 +46,10 @@
       <hr>
     <footer>
       <h5>
-        discord youtube twitter support my github
+        <a href="https://google.com">
+         <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" width="10%" height="10%">
+        </a>
+        youtube twitter support my github
       </h5>
     </footer>
   </body>
