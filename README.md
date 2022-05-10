@@ -1,5 +1,8 @@
 <!DOCTYPE html>        
   <html>
+    <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
     <body>
       <section>
       <h1>
@@ -46,16 +49,15 @@
       <hr>
     <footer>
       <h5>
-        <div style="text-align: center;">
         <a href="https://discord.gg/7dGPZu9m8b">
-         <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" align="center" width="5%" height="5%">
+          <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="5%" height="5%">
         </a>
-        </div>
         <a href="https://youtube.com/channel/UCvQxzanh1CdS11ZmOExAVcw">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" align="center" width="5%" height="5%">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="5%" height="5%">
         </a>
         <a href="https://twitter.com/orion43375384?s=21&t=_9YvHWtIXaWQSHU-KFxO1g">
-         <img src="https://www.torqlite.com/wp-content/uploads/2017/02/60414c58e954d7236837248225e0216f_new-twitter-logo-vector-eps-twitter-logo-clipart_518-518.png" align="center" width="5%" height="5%">
+         <center>
+           <img src="https://www.torqlite.com/wp-content/uploads/2017/02/60414c58e954d7236837248225e0216f_new-twitter-logo-vector-eps-twitter-logo-clipart_518-518.png" width="5%" height="5%">
         </a>
       </h5>
     </footer>
