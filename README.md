@@ -48,18 +48,17 @@
         </article>
       <hr>
     <footer>
-      <h5>
         <a href="https://discord.gg/7dGPZu9m8b">
           <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="5%" height="5%">
         </a>
         <a href="https://youtube.com/channel/UCvQxzanh1CdS11ZmOExAVcw">
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="5%" height="5%">
-        </a>
+        </a><hr>
         <a href="https://twitter.com/orion43375384?s=21&t=_9YvHWtIXaWQSHU-KFxO1g">
          <center>
            <img src="https://www.torqlite.com/wp-content/uploads/2017/02/60414c58e954d7236837248225e0216f_new-twitter-logo-vector-eps-twitter-logo-clipart_518-518.png" width="5%" height="5%">
+         </center>
         </a>
-      </h5>
     </footer>
   </body>
 </html>
